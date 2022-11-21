@@ -1,0 +1,26 @@
+.container{
+    color: black;
+    background-color: white;
+    max-width: min(80ch, 100vw - 2rem);
+    margin-inline: auto;
+    font-size: 1rem;
+}
+nav>ul{
+list-style: none ;
+display: flex;
+gap: 1rem;
+}
+main{
+
+
+}
+header{
+
+    align-items: center ;
+    display: flex;
+    justify-content: space-between;
+
+}
+footer{
+
+}
